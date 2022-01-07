@@ -1,5 +1,5 @@
 # Do Libraries Contribute to their Dependencies? A Network Analysis
-This is an appendix package for the publication: Do Libraries Contribute to their Dependencies? A Network Analysis. This appendix consisting of experiment's raw data, including the visualization of results, and coding used.
+This is an appendix package for the submitted manuscript for the Software Quality Journal, titled: Do Libraries Contribute to their Dependencies? A Network Analysis. This appendix consisting of experiment's raw data, including the visualization of results, and coding used.
 
 ## Abstract
 
