@@ -18,5 +18,4 @@ This work motivates to need for more focus how these library ecosystems support 
 - Kanchanok Kannee
 - Bodin Chinthanet
 - Supatsara Wattanakriengkrai
-- Toshiki Hirao
-
+- Takashi Ishio
