@@ -14,8 +14,6 @@ This work motivates to need for more focus how these library ecosystems support 
 
 ## Authors
 - Pattara Leelaprute
+- Pongchai Jaisri
 - Raula Gaikovina Kula
-- Kanchanok Kannee
-- Bodin Chinthanet
-- Supatsara Wattanakriengkrai
-- Takashi Ishio
+- Kenichi Matsumoto
